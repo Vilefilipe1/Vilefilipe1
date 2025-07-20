@@ -3,15 +3,9 @@
 <h3 align="center">Welcome to my profile!</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vilefilipe1/">
-    <img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
-  </a>
-  <a href="https://github.com/Vilefilipe1">
-    <img src="https://img.shields.io/badge/github-PESSOAL-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pessoal Badge">
-  </a>
-  <a href="https://github.com/VilefilipeDCOMP">
-    <img src="https://img.shields.io/badge/github-UFS-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub UFS Badge">
-  </a>
+  <a href="https://www.linkedin.com/in/vilefilipe1/"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+  <a href="https://github.com/Vilefilipe1"><img src="https://img.shields.io/badge/github-PESSOAL-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pessoal Badge"></a>
+  <a href="https://github.com/VilefilipeDCOMP"><img src="https://img.shields.io/badge/github-UFS-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub UFS Badge"></a>
 </div>
 
 
