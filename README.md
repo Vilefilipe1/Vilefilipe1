@@ -13,7 +13,7 @@
 ## About me
 
 <div align="center">
-    My name is <strong> Filipe Ciríaco</strong>, and I am a <strong>Computer Science student at the Universidade de Sergipe.</strong> 
+    My name is <strong> Filipe Ciríaco</strong>, and I am a <strong>Computer Science student at the Universidade Federal de Sergipe.</strong> 
     <br>
     Please feel free to explore the applications and websites showcased here. I hope you enjoy them!
     <br>
@@ -28,10 +28,10 @@
 ## Skills
 
 <div align="center">
-  <img align="center" loading="lazy" src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" loading="lazy" src="https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" loading="lazy" src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" loading="lazy" src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" loading="lazy" src="https://img.shields.io/badge/Linux-%23323330?style=for-the-badge&logo=linux&logoColor=white" />
+  <img align="center" loading="lazy" src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" loading="lazy" src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
